@@ -1,0 +1,1962 @@
+{
+ "base-industrial-capital": {
+  "w": 589,
+  "h": 665,
+  "originX": 0.5,
+  "originY": 0.5575
+ },
+ "base-industrial-forward": {
+  "w": 397,
+  "h": 449,
+  "originX": 0.5,
+  "originY": 0.5586
+ },
+ "base-magic-capital": {
+  "w": 589,
+  "h": 720,
+  "originX": 0.5,
+  "originY": 0.5911
+ },
+ "base-magic-forward": {
+  "w": 397,
+  "h": 490,
+  "originX": 0.5,
+  "originY": 0.5948
+ },
+ "deco-grass_a-0": {
+  "w": 166,
+  "h": 198,
+  "originX": 0.5,
+  "originY": 0.5806
+ },
+ "deco-grass_a-1": {
+  "w": 166,
+  "h": 198,
+  "originX": 0.5,
+  "originY": 0.5806
+ },
+ "deco-grass_a-2": {
+  "w": 166,
+  "h": 198,
+  "originX": 0.5,
+  "originY": 0.5806
+ },
+ "deco-grass_b-0": {
+  "w": 166,
+  "h": 198,
+  "originX": 0.5,
+  "originY": 0.5806
+ },
+ "deco-grass_b-1": {
+  "w": 166,
+  "h": 198,
+  "originX": 0.5,
+  "originY": 0.5806
+ },
+ "deco-grass_b-2": {
+  "w": 166,
+  "h": 198,
+  "originX": 0.5,
+  "originY": 0.5806
+ },
+ "deco-log-0": {
+  "w": 179,
+  "h": 211,
+  "originX": 0.5,
+  "originY": 0.5758
+ },
+ "deco-log-1": {
+  "w": 179,
+  "h": 211,
+  "originX": 0.5,
+  "originY": 0.5758
+ },
+ "deco-log-2": {
+  "w": 179,
+  "h": 211,
+  "originX": 0.5,
+  "originY": 0.5758
+ },
+ "deco-rock_a-0": {
+  "w": 179,
+  "h": 211,
+  "originX": 0.5,
+  "originY": 0.5758
+ },
+ "deco-rock_a-1": {
+  "w": 179,
+  "h": 211,
+  "originX": 0.5,
+  "originY": 0.5758
+ },
+ "deco-rock_a-2": {
+  "w": 179,
+  "h": 211,
+  "originX": 0.5,
+  "originY": 0.5758
+ },
+ "deco-rock_b-0": {
+  "w": 134,
+  "h": 166,
+  "originX": 0.5,
+  "originY": 0.5962
+ },
+ "deco-rock_b-1": {
+  "w": 134,
+  "h": 166,
+  "originX": 0.5,
+  "originY": 0.5962
+ },
+ "deco-rock_b-2": {
+  "w": 134,
+  "h": 166,
+  "originX": 0.5,
+  "originY": 0.5962
+ },
+ "deco-rock_c-0": {
+  "w": 134,
+  "h": 166,
+  "originX": 0.5,
+  "originY": 0.5962
+ },
+ "deco-rock_c-1": {
+  "w": 134,
+  "h": 166,
+  "originX": 0.5,
+  "originY": 0.5962
+ },
+ "deco-rock_c-2": {
+  "w": 134,
+  "h": 166,
+  "originX": 0.5,
+  "originY": 0.5962
+ },
+ "deco-rock_d-0": {
+  "w": 160,
+  "h": 192,
+  "originX": 0.5,
+  "originY": 0.5833
+ },
+ "deco-rock_d-1": {
+  "w": 160,
+  "h": 192,
+  "originX": 0.5,
+  "originY": 0.5833
+ },
+ "deco-rock_d-2": {
+  "w": 160,
+  "h": 192,
+  "originX": 0.5,
+  "originY": 0.5833
+ },
+ "deco-shrub_a-0": {
+  "w": 179,
+  "h": 211,
+  "originX": 0.5,
+  "originY": 0.5758
+ },
+ "deco-shrub_a-1": {
+  "w": 179,
+  "h": 211,
+  "originX": 0.5,
+  "originY": 0.5758
+ },
+ "deco-shrub_a-2": {
+  "w": 179,
+  "h": 211,
+  "originX": 0.5,
+  "originY": 0.5758
+ },
+ "deco-shrub_b-0": {
+  "w": 179,
+  "h": 211,
+  "originX": 0.5,
+  "originY": 0.5758
+ },
+ "deco-shrub_b-1": {
+  "w": 179,
+  "h": 211,
+  "originX": 0.5,
+  "originY": 0.5758
+ },
+ "deco-shrub_b-2": {
+  "w": 179,
+  "h": 211,
+  "originX": 0.5,
+  "originY": 0.5758
+ },
+ "deco-shrub_c-0": {
+  "w": 173,
+  "h": 205,
+  "originX": 0.5,
+  "originY": 0.5781
+ },
+ "deco-shrub_c-1": {
+  "w": 173,
+  "h": 205,
+  "originX": 0.5,
+  "originY": 0.5781
+ },
+ "deco-shrub_c-2": {
+  "w": 173,
+  "h": 205,
+  "originX": 0.5,
+  "originY": 0.5781
+ },
+ "deco-stump-0": {
+  "w": 128,
+  "h": 160,
+  "originX": 0.5,
+  "originY": 0.6
+ },
+ "deco-stump-1": {
+  "w": 128,
+  "h": 160,
+  "originX": 0.5,
+  "originY": 0.6
+ },
+ "deco-stump-2": {
+  "w": 128,
+  "h": 160,
+  "originX": 0.5,
+  "originY": 0.6
+ },
+ "deco-tree_fir-0": {
+  "w": 256,
+  "h": 298,
+  "originX": 0.5,
+  "originY": 0.5712
+ },
+ "deco-tree_fir-1": {
+  "w": 256,
+  "h": 298,
+  "originX": 0.5,
+  "originY": 0.5711
+ },
+ "deco-tree_fir-2": {
+  "w": 256,
+  "h": 299,
+  "originX": 0.5,
+  "originY": 0.5714
+ },
+ "deco-tree_pine-0": {
+  "w": 243,
+  "h": 284,
+  "originX": 0.5,
+  "originY": 0.572
+ },
+ "deco-tree_pine-1": {
+  "w": 243,
+  "h": 285,
+  "originX": 0.5,
+  "originY": 0.5729
+ },
+ "deco-tree_pine-2": {
+  "w": 243,
+  "h": 284,
+  "originX": 0.5,
+  "originY": 0.5724
+ },
+ "enemy-apostle_gravity": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-apostle_seal": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-apostle_vanish": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-ind_artillery": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-ind_scout": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-ind_soldier": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-ind_tank": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-mag_golem": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-mag_knight": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-mag_scout": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-mag_summoner": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-medium": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-purifier_swarm": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-rem_knight": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-rem_scout": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-rem_tank": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-small": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-spore_behemoth": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-spore_swarm": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-spore_thrower": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-star_drone": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-star_pod": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "enemy-star_shield": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926,
+  "dirs": 16,
+  "frames": 6
+ },
+ "fac-aa_turret-0": {
+  "w": 205,
+  "h": 243,
+  "originX": 0.5,
+  "originY": 0.5783
+ },
+ "fac-aa_turret-base": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5676
+ },
+ "fac-aa_turret-h0": {
+  "w": 205,
+  "h": 243,
+  "originX": 0.5,
+  "originY": 0.5783
+ },
+ "fac-aa_turret-h1": {
+  "w": 205,
+  "h": 243,
+  "originX": 0.5,
+  "originY": 0.5783
+ },
+ "fac-aa_turret-h10": {
+  "w": 205,
+  "h": 243,
+  "originX": 0.5,
+  "originY": 0.5783
+ },
+ "fac-aa_turret-h11": {
+  "w": 205,
+  "h": 243,
+  "originX": 0.5,
+  "originY": 0.5783
+ },
+ "fac-aa_turret-h12": {
+  "w": 205,
+  "h": 243,
+  "originX": 0.5,
+  "originY": 0.5783
+ },
+ "fac-aa_turret-h13": {
+  "w": 205,
+  "h": 243,
+  "originX": 0.5,
+  "originY": 0.5783
+ },
+ "fac-aa_turret-h14": {
+  "w": 205,
+  "h": 243,
+  "originX": 0.5,
+  "originY": 0.5783
+ },
+ "fac-aa_turret-h15": {
+  "w": 205,
+  "h": 243,
+  "originX": 0.5,
+  "originY": 0.5783
+ },
+ "fac-aa_turret-h2": {
+  "w": 205,
+  "h": 243,
+  "originX": 0.5,
+  "originY": 0.5783
+ },
+ "fac-aa_turret-h3": {
+  "w": 205,
+  "h": 243,
+  "originX": 0.5,
+  "originY": 0.5783
+ },
+ "fac-aa_turret-h4": {
+  "w": 205,
+  "h": 243,
+  "originX": 0.5,
+  "originY": 0.5783
+ },
+ "fac-aa_turret-h5": {
+  "w": 205,
+  "h": 243,
+  "originX": 0.5,
+  "originY": 0.5783
+ },
+ "fac-aa_turret-h6": {
+  "w": 205,
+  "h": 243,
+  "originX": 0.5,
+  "originY": 0.5783
+ },
+ "fac-aa_turret-h7": {
+  "w": 205,
+  "h": 243,
+  "originX": 0.5,
+  "originY": 0.5783
+ },
+ "fac-aa_turret-h8": {
+  "w": 205,
+  "h": 243,
+  "originX": 0.5,
+  "originY": 0.5783
+ },
+ "fac-aa_turret-h9": {
+  "w": 205,
+  "h": 243,
+  "originX": 0.5,
+  "originY": 0.5783
+ },
+ "fac-ammo_press-0": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-ammo_press-1": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-ammo_press-2": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-ammo_press-3": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-assembler-0": {
+  "w": 269,
+  "h": 308,
+  "originX": 0.5,
+  "originY": 0.5634
+ },
+ "fac-assembler-1": {
+  "w": 269,
+  "h": 308,
+  "originX": 0.5,
+  "originY": 0.5634
+ },
+ "fac-assembler-2": {
+  "w": 269,
+  "h": 308,
+  "originX": 0.5,
+  "originY": 0.5634
+ },
+ "fac-assembler-3": {
+  "w": 269,
+  "h": 308,
+  "originX": 0.5,
+  "originY": 0.5634
+ },
+ "fac-bio_cultivator-0": {
+  "w": 269,
+  "h": 311,
+  "originX": 0.5,
+  "originY": 0.5683
+ },
+ "fac-bio_cultivator-1": {
+  "w": 269,
+  "h": 311,
+  "originX": 0.5,
+  "originY": 0.5683
+ },
+ "fac-bio_cultivator-2": {
+  "w": 269,
+  "h": 311,
+  "originX": 0.5,
+  "originY": 0.5683
+ },
+ "fac-bio_cultivator-3": {
+  "w": 269,
+  "h": 311,
+  "originX": 0.5,
+  "originY": 0.5683
+ },
+ "fac-captured_engine-0": {
+  "w": 269,
+  "h": 318,
+  "originX": 0.5,
+  "originY": 0.578
+ },
+ "fac-command_post-0": {
+  "w": 269,
+  "h": 323,
+  "originX": 0.5,
+  "originY": 0.5837
+ },
+ "fac-crate-0": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "fac-crystal_altar-0": {
+  "w": 269,
+  "h": 313,
+  "originX": 0.5,
+  "originY": 0.5701
+ },
+ "fac-crystal_altar-1": {
+  "w": 269,
+  "h": 313,
+  "originX": 0.5,
+  "originY": 0.5701
+ },
+ "fac-crystal_altar-2": {
+  "w": 269,
+  "h": 313,
+  "originX": 0.5,
+  "originY": 0.5701
+ },
+ "fac-crystal_altar-3": {
+  "w": 269,
+  "h": 313,
+  "originX": 0.5,
+  "originY": 0.5701
+ },
+ "fac-enchanter-0": {
+  "w": 269,
+  "h": 330,
+  "originX": 0.5,
+  "originY": 0.5924
+ },
+ "fac-enchanter-1": {
+  "w": 269,
+  "h": 330,
+  "originX": 0.5,
+  "originY": 0.5924
+ },
+ "fac-enchanter-2": {
+  "w": 269,
+  "h": 330,
+  "originX": 0.5,
+  "originY": 0.5924
+ },
+ "fac-enchanter-3": {
+  "w": 269,
+  "h": 330,
+  "originX": 0.5,
+  "originY": 0.5924
+ },
+ "fac-field_lab-0": {
+  "w": 205,
+  "h": 267,
+  "originX": 0.5,
+  "originY": 0.6163
+ },
+ "fac-flame_turret-0": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5682
+ },
+ "fac-flame_turret-base": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5676
+ },
+ "fac-flame_turret-h0": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5682
+ },
+ "fac-flame_turret-h1": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5682
+ },
+ "fac-flame_turret-h10": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5682
+ },
+ "fac-flame_turret-h11": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5682
+ },
+ "fac-flame_turret-h12": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5682
+ },
+ "fac-flame_turret-h13": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5682
+ },
+ "fac-flame_turret-h14": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5682
+ },
+ "fac-flame_turret-h15": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5682
+ },
+ "fac-flame_turret-h2": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5682
+ },
+ "fac-flame_turret-h3": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5682
+ },
+ "fac-flame_turret-h4": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5682
+ },
+ "fac-flame_turret-h5": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5682
+ },
+ "fac-flame_turret-h6": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5682
+ },
+ "fac-flame_turret-h7": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5682
+ },
+ "fac-flame_turret-h8": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5682
+ },
+ "fac-flame_turret-h9": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5682
+ },
+ "fac-furnace_small-0": {
+  "w": 205,
+  "h": 320,
+  "originX": 0.5,
+  "originY": 0.58
+ },
+ "fac-furnace_small-1": {
+  "w": 269,
+  "h": 256,
+  "originX": 0.5,
+  "originY": 0.6
+ },
+ "fac-furnace_small-2": {
+  "w": 205,
+  "h": 320,
+  "originX": 0.5,
+  "originY": 0.58
+ },
+ "fac-furnace_small-3": {
+  "w": 269,
+  "h": 256,
+  "originX": 0.5,
+  "originY": 0.6
+ },
+ "fac-fusion_forge-0": {
+  "w": 269,
+  "h": 324,
+  "originX": 0.5,
+  "originY": 0.585
+ },
+ "fac-fusion_forge-1": {
+  "w": 269,
+  "h": 324,
+  "originX": 0.5,
+  "originY": 0.585
+ },
+ "fac-fusion_forge-2": {
+  "w": 269,
+  "h": 324,
+  "originX": 0.5,
+  "originY": 0.585
+ },
+ "fac-fusion_forge-3": {
+  "w": 269,
+  "h": 324,
+  "originX": 0.5,
+  "originY": 0.585
+ },
+ "fac-generator-0": {
+  "w": 269,
+  "h": 313,
+  "originX": 0.5,
+  "originY": 0.5711
+ },
+ "fac-gun_turret-0": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.596
+ },
+ "fac-gun_turret-base": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5676
+ },
+ "fac-gun_turret-h0": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.596
+ },
+ "fac-gun_turret-h1": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.596
+ },
+ "fac-gun_turret-h10": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.596
+ },
+ "fac-gun_turret-h11": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.596
+ },
+ "fac-gun_turret-h12": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.596
+ },
+ "fac-gun_turret-h13": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.596
+ },
+ "fac-gun_turret-h14": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.596
+ },
+ "fac-gun_turret-h15": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.596
+ },
+ "fac-gun_turret-h2": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.596
+ },
+ "fac-gun_turret-h3": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.596
+ },
+ "fac-gun_turret-h4": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.596
+ },
+ "fac-gun_turret-h5": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.596
+ },
+ "fac-gun_turret-h6": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.596
+ },
+ "fac-gun_turret-h7": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.596
+ },
+ "fac-gun_turret-h8": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.596
+ },
+ "fac-gun_turret-h9": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.596
+ },
+ "fac-lab-0": {
+  "w": 269,
+  "h": 319,
+  "originX": 0.5,
+  "originY": 0.5782
+ },
+ "fac-land_mine-0": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "fac-ley_tap-0": {
+  "w": 205,
+  "h": 265,
+  "originX": 0.5,
+  "originY": 0.6143
+ },
+ "fac-living_wall-0": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "fac-mana_collector-0": {
+  "w": 205,
+  "h": 244,
+  "originX": 0.5,
+  "originY": 0.5812
+ },
+ "fac-mana_conduit-0": {
+  "w": 141,
+  "h": 201,
+  "originX": 0.5,
+  "originY": 0.6506
+ },
+ "fac-mana_tower-0": {
+  "w": 141,
+  "h": 189,
+  "originX": 0.5,
+  "originY": 0.6267
+ },
+ "fac-mana_turret-0": {
+  "w": 205,
+  "h": 242,
+  "originX": 0.5,
+  "originY": 0.5762
+ },
+ "fac-mana_turret-base": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5676
+ },
+ "fac-mana_turret-h0": {
+  "w": 205,
+  "h": 242,
+  "originX": 0.5,
+  "originY": 0.5762
+ },
+ "fac-mana_turret-h1": {
+  "w": 205,
+  "h": 242,
+  "originX": 0.5,
+  "originY": 0.5762
+ },
+ "fac-mana_turret-h10": {
+  "w": 205,
+  "h": 242,
+  "originX": 0.5,
+  "originY": 0.5762
+ },
+ "fac-mana_turret-h11": {
+  "w": 205,
+  "h": 242,
+  "originX": 0.5,
+  "originY": 0.5762
+ },
+ "fac-mana_turret-h12": {
+  "w": 205,
+  "h": 242,
+  "originX": 0.5,
+  "originY": 0.5762
+ },
+ "fac-mana_turret-h13": {
+  "w": 205,
+  "h": 242,
+  "originX": 0.5,
+  "originY": 0.5762
+ },
+ "fac-mana_turret-h14": {
+  "w": 205,
+  "h": 242,
+  "originX": 0.5,
+  "originY": 0.5762
+ },
+ "fac-mana_turret-h15": {
+  "w": 205,
+  "h": 242,
+  "originX": 0.5,
+  "originY": 0.5762
+ },
+ "fac-mana_turret-h2": {
+  "w": 205,
+  "h": 242,
+  "originX": 0.5,
+  "originY": 0.5762
+ },
+ "fac-mana_turret-h3": {
+  "w": 205,
+  "h": 242,
+  "originX": 0.5,
+  "originY": 0.5762
+ },
+ "fac-mana_turret-h4": {
+  "w": 205,
+  "h": 242,
+  "originX": 0.5,
+  "originY": 0.5762
+ },
+ "fac-mana_turret-h5": {
+  "w": 205,
+  "h": 242,
+  "originX": 0.5,
+  "originY": 0.5762
+ },
+ "fac-mana_turret-h6": {
+  "w": 205,
+  "h": 242,
+  "originX": 0.5,
+  "originY": 0.5762
+ },
+ "fac-mana_turret-h7": {
+  "w": 205,
+  "h": 242,
+  "originX": 0.5,
+  "originY": 0.5762
+ },
+ "fac-mana_turret-h8": {
+  "w": 205,
+  "h": 242,
+  "originX": 0.5,
+  "originY": 0.5762
+ },
+ "fac-mana_turret-h9": {
+  "w": 205,
+  "h": 242,
+  "originX": 0.5,
+  "originY": 0.5762
+ },
+ "fac-miner-0": {
+  "w": 205,
+  "h": 252,
+  "originX": 0.5,
+  "originY": 0.5944
+ },
+ "fac-miner-1": {
+  "w": 205,
+  "h": 252,
+  "originX": 0.5,
+  "originY": 0.5944
+ },
+ "fac-miner-2": {
+  "w": 205,
+  "h": 252,
+  "originX": 0.5,
+  "originY": 0.5944
+ },
+ "fac-miner-3": {
+  "w": 205,
+  "h": 252,
+  "originX": 0.5,
+  "originY": 0.5944
+ },
+ "fac-mortar_turret-0": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.5951
+ },
+ "fac-mortar_turret-base": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5676
+ },
+ "fac-mortar_turret-h0": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.5951
+ },
+ "fac-mortar_turret-h1": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.5951
+ },
+ "fac-mortar_turret-h10": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.5951
+ },
+ "fac-mortar_turret-h11": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.5951
+ },
+ "fac-mortar_turret-h12": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.5951
+ },
+ "fac-mortar_turret-h13": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.5951
+ },
+ "fac-mortar_turret-h14": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.5951
+ },
+ "fac-mortar_turret-h15": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.5951
+ },
+ "fac-mortar_turret-h2": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.5951
+ },
+ "fac-mortar_turret-h3": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.5951
+ },
+ "fac-mortar_turret-h4": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.5951
+ },
+ "fac-mortar_turret-h5": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.5951
+ },
+ "fac-mortar_turret-h6": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.5951
+ },
+ "fac-mortar_turret-h7": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.5951
+ },
+ "fac-mortar_turret-h8": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.5951
+ },
+ "fac-mortar_turret-h9": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.5951
+ },
+ "fac-orbital_receiver-0": {
+  "w": 269,
+  "h": 317,
+  "originX": 0.5,
+  "originY": 0.5757
+ },
+ "fac-orbital_receiver-1": {
+  "w": 269,
+  "h": 317,
+  "originX": 0.5,
+  "originY": 0.5757
+ },
+ "fac-orbital_receiver-2": {
+  "w": 269,
+  "h": 317,
+  "originX": 0.5,
+  "originY": 0.5757
+ },
+ "fac-orbital_receiver-3": {
+  "w": 269,
+  "h": 317,
+  "originX": 0.5,
+  "originY": 0.5757
+ },
+ "fac-order_resonator-0": {
+  "w": 269,
+  "h": 318,
+  "originX": 0.5,
+  "originY": 0.5772
+ },
+ "fac-order_resonator-1": {
+  "w": 269,
+  "h": 318,
+  "originX": 0.5,
+  "originY": 0.5772
+ },
+ "fac-order_resonator-2": {
+  "w": 269,
+  "h": 318,
+  "originX": 0.5,
+  "originY": 0.5772
+ },
+ "fac-order_resonator-3": {
+  "w": 269,
+  "h": 318,
+  "originX": 0.5,
+  "originY": 0.5772
+ },
+ "fac-pack_workshop-0": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5676
+ },
+ "fac-pack_workshop-1": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5676
+ },
+ "fac-pack_workshop-2": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5676
+ },
+ "fac-pack_workshop-3": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5676
+ },
+ "fac-power_pole-0": {
+  "w": 141,
+  "h": 192,
+  "originX": 0.5,
+  "originY": 0.6339
+ },
+ "fac-precision_assembler-0": {
+  "w": 269,
+  "h": 319,
+  "originX": 0.5,
+  "originY": 0.5792
+ },
+ "fac-precision_assembler-1": {
+  "w": 269,
+  "h": 319,
+  "originX": 0.5,
+  "originY": 0.5792
+ },
+ "fac-precision_assembler-2": {
+  "w": 269,
+  "h": 319,
+  "originX": 0.5,
+  "originY": 0.5792
+ },
+ "fac-precision_assembler-3": {
+  "w": 269,
+  "h": 319,
+  "originX": 0.5,
+  "originY": 0.5792
+ },
+ "fac-prism_cannon-0": {
+  "w": 205,
+  "h": 240,
+  "originX": 0.5,
+  "originY": 0.5739
+ },
+ "fac-prism_cannon-base": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5676
+ },
+ "fac-prism_cannon-h0": {
+  "w": 205,
+  "h": 240,
+  "originX": 0.5,
+  "originY": 0.5739
+ },
+ "fac-prism_cannon-h1": {
+  "w": 205,
+  "h": 240,
+  "originX": 0.5,
+  "originY": 0.5739
+ },
+ "fac-prism_cannon-h10": {
+  "w": 205,
+  "h": 240,
+  "originX": 0.5,
+  "originY": 0.5739
+ },
+ "fac-prism_cannon-h11": {
+  "w": 205,
+  "h": 240,
+  "originX": 0.5,
+  "originY": 0.5739
+ },
+ "fac-prism_cannon-h12": {
+  "w": 205,
+  "h": 240,
+  "originX": 0.5,
+  "originY": 0.5739
+ },
+ "fac-prism_cannon-h13": {
+  "w": 205,
+  "h": 240,
+  "originX": 0.5,
+  "originY": 0.5739
+ },
+ "fac-prism_cannon-h14": {
+  "w": 205,
+  "h": 240,
+  "originX": 0.5,
+  "originY": 0.5739
+ },
+ "fac-prism_cannon-h15": {
+  "w": 205,
+  "h": 240,
+  "originX": 0.5,
+  "originY": 0.5739
+ },
+ "fac-prism_cannon-h2": {
+  "w": 205,
+  "h": 240,
+  "originX": 0.5,
+  "originY": 0.5739
+ },
+ "fac-prism_cannon-h3": {
+  "w": 205,
+  "h": 240,
+  "originX": 0.5,
+  "originY": 0.5739
+ },
+ "fac-prism_cannon-h4": {
+  "w": 205,
+  "h": 240,
+  "originX": 0.5,
+  "originY": 0.5739
+ },
+ "fac-prism_cannon-h5": {
+  "w": 205,
+  "h": 240,
+  "originX": 0.5,
+  "originY": 0.5739
+ },
+ "fac-prism_cannon-h6": {
+  "w": 205,
+  "h": 240,
+  "originX": 0.5,
+  "originY": 0.5739
+ },
+ "fac-prism_cannon-h7": {
+  "w": 205,
+  "h": 240,
+  "originX": 0.5,
+  "originY": 0.5739
+ },
+ "fac-prism_cannon-h8": {
+  "w": 205,
+  "h": 240,
+  "originX": 0.5,
+  "originY": 0.5739
+ },
+ "fac-prism_cannon-h9": {
+  "w": 205,
+  "h": 240,
+  "originX": 0.5,
+  "originY": 0.5739
+ },
+ "fac-radar-0": {
+  "w": 205,
+  "h": 286,
+  "originX": 0.5,
+  "originY": 0.6422
+ },
+ "fac-regen_vat-0": {
+  "w": 205,
+  "h": 240,
+  "originX": 0.5,
+  "originY": 0.5725
+ },
+ "fac-repair_bay-0": {
+  "w": 205,
+  "h": 253,
+  "originX": 0.5,
+  "originY": 0.5954
+ },
+ "fac-scriptorium-0": {
+  "w": 205,
+  "h": 239,
+  "originX": 0.5,
+  "originY": 0.5716
+ },
+ "fac-scriptorium-1": {
+  "w": 205,
+  "h": 239,
+  "originX": 0.5,
+  "originY": 0.5716
+ },
+ "fac-scriptorium-2": {
+  "w": 205,
+  "h": 239,
+  "originX": 0.5,
+  "originY": 0.5716
+ },
+ "fac-scriptorium-3": {
+  "w": 205,
+  "h": 239,
+  "originX": 0.5,
+  "originY": 0.5716
+ },
+ "fac-splitter-0": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "fac-splitter-1": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "fac-splitter-2": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "fac-splitter-3": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "fac-steam_engine-0": {
+  "w": 269,
+  "h": 340,
+  "originX": 0.5,
+  "originY": 0.6045
+ },
+ "fac-steel_furnace-0": {
+  "w": 269,
+  "h": 347,
+  "originX": 0.5,
+  "originY": 0.6125
+ },
+ "fac-steel_furnace-1": {
+  "w": 269,
+  "h": 347,
+  "originX": 0.5,
+  "originY": 0.6125
+ },
+ "fac-steel_furnace-2": {
+  "w": 269,
+  "h": 347,
+  "originX": 0.5,
+  "originY": 0.6125
+ },
+ "fac-steel_furnace-3": {
+  "w": 269,
+  "h": 347,
+  "originX": 0.5,
+  "originY": 0.6125
+ },
+ "fac-stone_wall-0": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "fac-substation-0": {
+  "w": 141,
+  "h": 201,
+  "originX": 0.5,
+  "originY": 0.6491
+ },
+ "fac-toxin_turret-0": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-toxin_turret-base": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5676
+ },
+ "fac-toxin_turret-h0": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-toxin_turret-h1": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-toxin_turret-h10": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-toxin_turret-h11": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-toxin_turret-h12": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-toxin_turret-h13": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-toxin_turret-h14": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-toxin_turret-h15": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-toxin_turret-h2": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-toxin_turret-h3": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-toxin_turret-h4": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-toxin_turret-h5": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-toxin_turret-h6": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-toxin_turret-h7": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-toxin_turret-h8": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-toxin_turret-h9": {
+  "w": 205,
+  "h": 238,
+  "originX": 0.5,
+  "originY": 0.5693
+ },
+ "fac-ward_stone-0": {
+  "w": 141,
+  "h": 195,
+  "originX": 0.5,
+  "originY": 0.6398
+ },
+ "fac-warehouse-0": {
+  "w": 205,
+  "h": 245,
+  "originX": 0.5,
+  "originY": 0.5822
+ },
+ "fac-workbench-0": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5676
+ },
+ "fac-workbench-1": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5676
+ },
+ "fac-workbench-2": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5676
+ },
+ "fac-workbench-3": {
+  "w": 205,
+  "h": 237,
+  "originX": 0.5,
+  "originY": 0.5676
+ },
+ "ore-coal-00": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-coal-01": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-coal-10": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-coal-11": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-coal-20": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-coal-21": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-copper_ore-00": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-copper_ore-01": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-copper_ore-10": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-copper_ore-11": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-copper_ore-20": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-copper_ore-21": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-iron_ore-00": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-iron_ore-01": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-iron_ore-10": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-iron_ore-11": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-iron_ore-20": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-iron_ore-21": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-mana_crystal-00": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-mana_crystal-01": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-mana_crystal-10": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-mana_crystal-11": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-mana_crystal-20": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-mana_crystal-21": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-rune_stone-00": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-rune_stone-01": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-rune_stone-10": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-rune_stone-11": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-rune_stone-20": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-rune_stone-21": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-spirit_wood-00": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-spirit_wood-01": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-spirit_wood-10": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-spirit_wood-11": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-spirit_wood-20": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-spirit_wood-21": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-stone-00": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-stone-01": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-stone-10": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-stone-11": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-stone-20": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ },
+ "ore-stone-21": {
+  "w": 141,
+  "h": 173,
+  "originX": 0.5,
+  "originY": 0.5926
+ }
+}
